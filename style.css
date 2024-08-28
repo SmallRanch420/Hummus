@@ -3,6 +3,7 @@
 /*This is the background of the site*/
 body {
   background: black;
+  
 }
 
 
@@ -15,7 +16,7 @@ body {
 /*This is the code for the cool typing effect for the title*/
 .typewriter h1 {
     font-family: 'Courier New';
-    color: white;
+    color: #4AF626;
     letter-spacing: .17em;
     margin: 0 auto;
     overflow: hidden;
@@ -45,16 +46,8 @@ body {
 }
 
 /*This is the color for the text*/
-h3 {
-  color: white;
-}
-
-p1 {
-  color: white;
-}
-
-a {
-  color: white;
+h1, h3, p1, a {
+  color: #4AF626;
 }
 
 /*Header info*/
@@ -105,7 +98,7 @@ nav a {
 }
 
 nav a:hover {
-  color: white;
+  color: #e07800;
 }
 
 nav a::before {
@@ -127,7 +120,7 @@ nav a:hover::before {
 
 
 h2 {
-  color: white;
+  color: #4AF626;
 }
 
 
