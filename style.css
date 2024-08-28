@@ -3,13 +3,13 @@
 /*This is the background of the site*/
 body {
   background: black;
-  color: #4AF626;
 }
 
 
 /*This is the font used for the site*/
 body {
   font-family: 'Courier New', monospace, Verdana;
+  color: #4AF626;
 }
 
 /*This is the code for the cool typing effect for the title*/
